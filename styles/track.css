@@ -4,10 +4,12 @@
     min-height: 100vh;
     padding: 170px 0 50px 0;
 }
+
 .track-content {
     width: 593px;
     margin: 0 auto;
 }
+
 .track-card {
     width: 100%;
     border-radius: 18px;
